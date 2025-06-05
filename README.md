@@ -7,6 +7,12 @@
   <div style="flex: 1;">
     <h3>🌐 Socials:</h3>
     <p>
+      <a href="https://discord.gg/ngoctrinh564">
+        <img src="https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white" alt="Discord">
+      </a>
+      <a href="https://linkedin.com/in/ngoctrinh564">
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
+      </a>
       <a href="https://www.facebook.com/chinh.quyen.52831">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
       </a>
