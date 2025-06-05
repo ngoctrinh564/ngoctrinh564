@@ -13,7 +13,7 @@
       <a href="https://linkedin.com/in/ngoctrinh564">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
       </a>
-      <a href="https://www.facebook.com/chinh.quyen.52831">
+      <a href="https://www.facebook.com/ngoctrinh.5604">
         <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white" alt="Facebook">
       </a>
       <a href="https://instagram.com/trinh_are_trinhie">
