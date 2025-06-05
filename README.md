@@ -22,11 +22,17 @@
     </p>
   </div>
 
-  <!-- Cột bên phải: hình động -->
-  <div style="flex: 1; text-align: right;">
-    <img src="https://i.pinimg.com/originals/42/0e/55/420e553ac05ef62e4b114123e73865a0.gif" width="45%" />
-    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+  <!-- Cột bên phải: hai ảnh gif cạnh nhau và một ảnh bên dưới -->
+  <div style="flex: 1;">
+    <!-- Hai ảnh gif cạnh nhau -->
+    <div style="display: flex; justify-content: space-between; gap: 10px;">
+      <img src="https://i.pinimg.com/originals/42/0e/55/420e553ac05ef62e4b114123e73865a0.gif" style="width: 50%;" />
+      <img src="https://i.pinimg.com/originals/bd/76/5d/bd765def594d116af21de47493771cf6.gif" style="width: 50%;" />
+    </div>
   </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
+
 </div>
 
 ### 💻 Tech Stack:
