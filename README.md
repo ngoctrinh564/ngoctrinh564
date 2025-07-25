@@ -1,5 +1,31 @@
 ### 💫 About Me:
-👋 About Me<br>Hey there! I'm currently a student majoring in Information Systems under Information Technology.<br>I’m passionate about understanding how systems work and making them even better — especially through 📊 data analysis and 🎨 user interface design, which are my two strongest areas.<br><br>💬Favorite quote: “ANY OBSTACLE IS BREAKABLE” – Rosé (BLACKPINK) 💗<br><br>🎧 Interests<br>🎶 K-pop lover (BLINK 💖) & US-UK music enthusiast<br>🌾 Big fan of the peaceful countryside vibe<br>🎬 Side hustles include event coordination, background acting, and appearing in TVCs!<br><br>💼 Soft Skills<br>😊 Friendly & easy-going<br>🤝 Team player with a positive attitude<br>💡 Always curious, always learning<br><br>Let’s connect and build something amazing together! 🚀<br>Thanks for visiting my GitHub profile! 🙌
+👋 Hi! I’m **Nguyễn Ngọc Trinh** – a passionate and creative student specializing in *Information Systems*, part of the broader *Information Technology* field.<br>
+I’m fascinated by how systems operate and love improving them through 📊 data analysis and 🎨 user-centered interface design.<br>
+My approach blends logic with creativity, aiming to craft digital experiences that are both smart and intuitive.<br><br>
+
+💬 Favorite Quote<br>
+“Any obstacle is breakable.” – Rosé (BLACKPINK) 💗<br><br>
+
+🎧 Interests<br>
+🎶 A devoted BLINK (K-pop fan) & US-UK music enthusiast<br>
+🌾 A big fan of the calm and cozy countryside vibe<br>
+🎥 With a strong passion for media and communication, I’ve had the chance to coordinate events, appear in television commercials, and work as a background actress in film projects — each experience deepening my love for storytelling in all its forms.<br><br>
+
+💼 Soft Skills<br>
+😊 Friendly and open-minded<br>
+🤝 A strong team player with a collaborative mindset<br>
+💡 Naturally curious and always eager to grow<br><br>
+
+🛠 Tech Stack<br>
+– <strong>Languages & Web</strong>: HTML/CSS, JavaScript, C#<br>
+– <strong>Frameworks</strong>: .NET, ASP.NET Core<br>
+– <strong>Data & Tools</strong>: SQL, MongoDB, Excel<br>
+– <strong>Design</strong>: Figma<br><br>
+
+🚀 I’m always open to feedback, collaboration, or even a fun chat about UX trends or K-pop beats!<br>
+Let’s connect and create meaningful solutions with smart systems and intuitive design.<br>
+Thanks for visiting my GitHub profile! 🙌
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
