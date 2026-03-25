@@ -89,17 +89,8 @@ Thanks for visiting my GitHub profile! 🙌
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 
 </div>
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ngoctrinh564&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ngoctrinh564&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <p align="center">
   I'm glad you found my GitHub profile!
